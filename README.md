@@ -1,0 +1,2 @@
+# Voice-Analysis-For-Early-Identification-of-Diabetes-Using-Transformer-based-Algorithm
+The system is designed to assist healthcare professionals by providing an additional screening tool that can help identify potential diabetes cases at an early stage. By leveraging artificial intelligence and voice analysis, the proposed approach offers a cost-effective, accessible, and user-friendly solution for preliminary health assessment.
